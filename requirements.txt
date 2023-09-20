@@ -1,0 +1,6 @@
+FastApi
+uvicorn
+pydantic
+json
+scikit-learn
+requests
